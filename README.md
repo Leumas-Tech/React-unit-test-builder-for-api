@@ -137,4 +137,4 @@ Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue.
 
 Contact
-For questions or support, please contact your-email@example.com.
+For questions or support, please contact wbermudez@leumas.tech || contact@leumas.tech
